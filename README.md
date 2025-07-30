@@ -20,6 +20,8 @@ A complete fast-food ordering platform with an intuitive interface and full e-co
 </ul>
 
 
+<img width="2351" height="1850" alt="fastfoodthumbnail" src="https://github.com/user-attachments/assets/1f5bf5dc-dff5-444e-8975-3dd0bd96983d" />
+
 
 
 
