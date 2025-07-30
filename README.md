@@ -3,8 +3,8 @@ A complete fast-food ordering platform with an intuitive interface and full e-co
 
 # Technologies
 <ul>
-  <li><b>Frontend: </b> Typescript, ReactJS, TailwindCSS, Dialogflow, Redux</li>
-    <li><b>Backend:</b> NestJS, PostgreSQL, Firebase, Prisma, Gemini</li>
+  <li><b>Frontend: </b> Typescript, ReactJS, TailwindCSS, Redux</li>
+    <li><b>Backend:</b> NestJS, PostgreSQL, Firebase, Dialogflow, Prisma, Gemini</li>
 </ul>
 
 # Features
