@@ -1,4 +1,4 @@
-# FastFood 🍔
+# FastFood 🍔 - Fast-Food Ordering Platform
 
 **Overview**  
 A feature-rich fast-food ordering platform built for speed and convenience, with cart, payments, admin dashboard, and AI chatbot support.
