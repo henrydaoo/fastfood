@@ -1,38 +1,26 @@
-# Fast Food
-A complete fast-food ordering platform with an intuitive interface and full e-commerce features for instant cravings.
+# FastFood 🍔
 
-# Technologies
-<ul>
-  <li><b>Frontend: </b> Typescript, ReactJS, TailwindCSS, Redux</li>
-    <li><b>Backend:</b> NestJS, PostgreSQL, Firebase, Dialogflow, Prisma, Gemini</li>
-</ul>
+**Overview**  
+A feature-rich fast-food ordering platform built for speed and convenience, with cart, payments, admin dashboard, and AI chatbot support.
 
-# Features
-<ul>
-  <li>Let users register, log in, manage profiles, and order food across devices.</li>
-  <li>Support searching food items with filters , sorting, and voice input.</li>
-<li>Let users manage cart, checkout, payments, and track delivery status.</li>
-     <li> Allow admins to manage dishes, categories</li>
-    <li>Generate reports.</li>
-  <li>Enable food reviews, ratings, and chatbot support for menu or order assistance.</li>
-  <li>Integrate Gemini to assess reviews.</li>
-  <li> Fully responsive on mobile — optimized for fast browsing and ordering on all screen sizes.</li>
-</ul>
+**Tech Stack**  
+- **Frontend:** ReactJS, Typescript, TailwindCSS, Redux  
+- **Backend:** NestJS, PostgreSQL, Firebase, Prisma, Dialogflow, Gemini  
 
+**Key Features**  
+- User registration, login, profile management, and cross-device ordering  
+- Food search with filters, sorting, and voice input  
+- Cart, checkout, payments, and real-time order tracking  
+- Admin dashboard for dish/category management and reporting  
+- AI chatbot support for menu or order assistance  
+- Integrate Gemini for review assessment  
+- Fully responsive UI optimized for mobile  
 
-<img width="2351" height="1850" alt="fastfoodthumbnail" src="https://github.com/user-attachments/assets/1f5bf5dc-dff5-444e-8975-3dd0bd96983d" />
+**My Role**  
+Frontend Lead – designed responsive UI, managed Redux state, planned sprints, assigned tasks, and ensured timely delivery.
 
+**Links**  
+- [GitHub Repo](https://github.com/henrydaoo/fastfood)  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+**Screenshots**  
+![FastFood](https://ik.imagekit.io/henrydaoo/portfolio/projects/fastfoodthumbnail.png?updatedAt=1753880910330)
